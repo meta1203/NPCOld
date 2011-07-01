@@ -1,0 +1,12 @@
+name: BasicNpcs
+main: redecouverte.basicnpcs.Main
+version: 0.2
+website: http://forums.bukkit.org
+authors:
+  - Redecouverte
+description: nps port
+commands:
+  bnpc:
+    description: Main npc command
+    usage: /bnpc
+           
